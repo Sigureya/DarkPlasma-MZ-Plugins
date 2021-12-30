@@ -119,6 +119,9 @@
       margin: 0 5px;
       font-size: 30px; }
 
+:root .alignright {
+  float: right; }
+
 .header-widget {
   position: fixed;
   top: 0;
