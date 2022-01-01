@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>新規入手アイテムを強調表示する</title>
+      <link href="/DarkPlasma-MZ-Plugins/2022/01/01/highlight-new-item/"/>
+      <url>/DarkPlasma-MZ-Plugins/2022/01/01/highlight-new-item/</url>
+      
+        <content type="html"><![CDATA[<h1 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h1><p>新規入手アイテムを強調表示します。</p><h1 id="使用例"><a href="#使用例" class="headerlink" title="使用例"></a>使用例</h1><p><img src="highlight-new-item.png" alt="使用例" title="使用例"></p><p>入手したハイポーションが強調表示されています。<br>カーソルを合わせると新規入手フラグが消え、通常の色に戻ります。</p><h1 id="ダウンロードリンク"><a href="#ダウンロードリンク" class="headerlink" title="ダウンロードリンク"></a>ダウンロードリンク</h1><p><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_HighlightNewItem.js">GitHub</a><br>Rawボタンを右クリックして対象をファイルに保存してください。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> プラグイン解説 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> アイテム </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>並び替えシーン</title>
       <link href="/DarkPlasma-MZ-Plugins/2022/01/01/formation/"/>
       <url>/DarkPlasma-MZ-Plugins/2022/01/01/formation/</url>
       
-        <content type="html"><![CDATA[<h1 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h1><p>パーティメンバーを並び替えるシーンを提供します。</p><h1 id="使用例"><a href="#使用例" class="headerlink" title="使用例"></a>使用例</h1><p><img src="formation.png" alt="使用例" title="使用例"><br><img src="formation-event.png" alt="イベント例" title="イベント例"></p><p>本プラグイン単体では、メニュー画面から並び替えシーンを開くことができません。<br>以下の方法でメニュー画面から並び替えシーンを開くことができます。</p><ul><li>メニュー拡張系のプラグインを利用して <code>Scene_Formation</code> を呼び出すよう設定する</li><li><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_FormationInMenu.js">メニューの並び替えでシーンを呼び出す</a>プラグインを利用する</li></ul><p>また、戦闘中に並び替えシーンを開くためには<a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_FormationInBattle.js">戦闘中に並び替えを行う</a>プラグインが必要です。</p><h1 id="ダウンロードリンク"><a href="#ダウンロードリンク" class="headerlink" title="ダウンロードリンク"></a>ダウンロードリンク</h1><p><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_Formation.js">GitHub</a><br>Rawボタンを右クリックして対象をファイルに保存してください。</p><h1 id="関連プラグイン"><a href="#関連プラグイン" class="headerlink" title="関連プラグイン"></a>関連プラグイン</h1><ul><li><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_FormationInMenu.js">メニューの並び替えでシーンを呼び出す</a></li><li><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_FormationInBattle.js">戦闘中に並び替えを行う</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h1><p>パーティメンバーを並び替えるシーンを提供します。</p><h1 id="使用例"><a href="#使用例" class="headerlink" title="使用例"></a>使用例</h1><p><img src="formation.png" alt="使用例" title="使用例"><br><img src="formation-event.png" alt="イベント例" title="イベント例"></p><p>本プラグイン単体では、メニュー画面から並び替えシーンを開くことができません。<br>以下の方法でメニュー画面から並び替えシーンを開くことができます。</p><ul><li>メニュー拡張系のプラグインを利用して <code>Scene_Formation</code> を呼び出すよう設定する</li><li><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_FormationInMenu.js">メニューの並び替えでシーンを呼び出す</a>プラグインを利用する</li></ul><p>また、戦闘中に並び替えシーンを開くためには<a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_FormationInBattle.js">戦闘中に並び替えを行う</a>プラグインが必要です。</p><h2 id="紹介動画"><a href="#紹介動画" class="headerlink" title="紹介動画"></a>紹介動画</h2><iframe width="560" height="315" src="https://www.youtube.com/embed/bahj4ogR46Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><h1 id="ダウンロードリンク"><a href="#ダウンロードリンク" class="headerlink" title="ダウンロードリンク"></a>ダウンロードリンク</h1><p><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_Formation.js">GitHub</a><br>Rawボタンを右クリックして対象をファイルに保存してください。</p><h1 id="関連プラグイン"><a href="#関連プラグイン" class="headerlink" title="関連プラグイン"></a>関連プラグイン</h1><ul><li><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_FormationInMenu.js">メニューの並び替えでシーンを呼び出す</a></li><li><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_FormationInBattle.js">戦闘中に並び替えを行う</a></li></ul>]]></content>
       
       
       <categories>
