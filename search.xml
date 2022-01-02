@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>指定した語句に自動で色をつける</title>
+      <link href="/DarkPlasma-MZ-Plugins/2022/01/02/auto-highlight/"/>
+      <url>/DarkPlasma-MZ-Plugins/2022/01/02/auto-highlight/</url>
+      
+        <content type="html"><![CDATA[<h1 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h1><p>指定した語句に自動的に色をつけます。</p><h1 id="使用例"><a href="#使用例" class="headerlink" title="使用例"></a>使用例</h1><p><img src="auto-highlight.png" alt="使用例" title="使用例"><br><img src="auto-highlight-setting.png" alt="設定例" title="設定例"></p><p>スキル名やアイテム名についてもハイライトの対象とすることができます。</p><h1 id="ダウンロードリンク"><a href="#ダウンロードリンク" class="headerlink" title="ダウンロードリンク"></a>ダウンロードリンク</h1><p><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_AutoHighlight.js">GitHub</a><br>Rawボタンを右クリックして対象をファイルに保存してください。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> プラグイン解説 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> テキスト </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>新規入手アイテムを強調表示する</title>
       <link href="/DarkPlasma-MZ-Plugins/2022/01/01/highlight-new-item/"/>
       <url>/DarkPlasma-MZ-Plugins/2022/01/01/highlight-new-item/</url>
@@ -192,8 +217,6 @@
         <tags>
             
             <tag> テキスト </tag>
-            
-            <tag> 自動改行 </tag>
             
         </tags>
       
