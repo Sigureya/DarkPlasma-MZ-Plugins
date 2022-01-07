@@ -119,6 +119,11 @@
       margin: 0 5px;
       font-size: 30px; }
 
+:root .clearfix::after {
+  content: "";
+  display: block;
+  clear: both; }
+
 :root .alignright {
   float: right; }
 
