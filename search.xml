@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>アイテム倉庫</title>
+      <link href="/DarkPlasma-MZ-Plugins/2022/01/10/item-storage/"/>
+      <url>/DarkPlasma-MZ-Plugins/2022/01/10/item-storage/</url>
+      
+        <content type="html"><![CDATA[<h1 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h1><p>アイテムを預けたり取り出したりできる倉庫を提供します。</p><h1 id="使用例"><a href="#使用例" class="headerlink" title="使用例"></a>使用例</h1><p><img src="item-storage.png" alt="使用例" title="使用例"><br><img src="item-storage-setting.png" alt="設定例" title="設定例"></p><h1 id="ダウンロードリンク"><a href="#ダウンロードリンク" class="headerlink" title="ダウンロードリンク"></a>ダウンロードリンク</h1><p><a href="https://github.com/elleonard/DarkPlasma-MZ-Plugins/blob/release/DarkPlasma_ItemStorage.js">GitHub</a><br>Rawボタンを右クリックして対象をファイルに保存してください。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> プラグイン解説 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> アイテム </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>範囲・連続攻撃のダメージ減衰</title>
       <link href="/DarkPlasma-MZ-Plugins/2022/01/09/multi-attack-damage-fall/"/>
       <url>/DarkPlasma-MZ-Plugins/2022/01/09/multi-attack-damage-fall/</url>
